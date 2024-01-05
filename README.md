@@ -4,7 +4,7 @@
 
 ###
 
-<img width="370" align="left" src="https://i.gifer.com/7k5e.gif"  />
+<img width="325" align="left" src="https://raw.githubusercontent.com/virez001/gift/main/7k5e.gif"/>
 
 <div align="left">
   <h4>Languages and frameworks:</h4>
@@ -18,15 +18,14 @@
 ###
 
 <div align="left">
-  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorjoss&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
+  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorjoss&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
 
-
 ###
 
-<img width="360" align="left" src="https://i.pinimg.com/originals/86/89/35/8689354293f1da6123c561184a99a4c8.png"  />
+<img width="330" align="left" src="https://i.pinimg.com/originals/86/89/35/8689354293f1da6123c561184a99a4c8.png"  />
 
 ###
 
@@ -57,7 +56,6 @@
 </div>
 
 ###
-
 
 <div align="centr">
   <h4>Let's connect here:</h4>
