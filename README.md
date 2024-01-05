@@ -3,10 +3,9 @@
 <h3 align="left">Committed to continuous learning in the wonderful world of software, with an emphasis on delivering high-quality, results-oriented work</h3>
 
 ###
+  <img width="320"  align="left" src="https://raw.githubusercontent.com/virez001/gift/main/7k5e.gif"/>
 
-<img width="325" align="left" src="https://raw.githubusercontent.com/virez001/gift/main/7k5e.gif"/>
-
-<div align="left">
+<div align="left" style="margin-bottom: 20px;">
   <h4>Languages and frameworks:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -17,8 +16,10 @@
 
 ###
 
+
+
 <div align="left">
-  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorjoss&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img  margin-right="35px" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorjoss&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
@@ -37,7 +38,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgresSQL logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" height="40" alt="vite logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" height="40" alt="Css3 logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
