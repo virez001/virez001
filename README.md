@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongoDB logo"  />
+  <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongoDB logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo"  />
   <img width="12" />
