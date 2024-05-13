@@ -10,8 +10,6 @@
   <h4>Languages and frameworks:</h4>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
@@ -58,8 +56,8 @@
 
 <div align="left">
   <h4 >Would like to learn:</h4>
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
