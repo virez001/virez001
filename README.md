@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" height="40" alt="Css3 logo"  />
    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
