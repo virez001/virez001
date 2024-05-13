@@ -59,7 +59,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 ###
