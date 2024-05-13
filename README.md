@@ -56,7 +56,9 @@
 
 <div align="left">
   <h4 >Would like to learn:</h4>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorFlow logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
