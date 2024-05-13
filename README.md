@@ -55,9 +55,7 @@
 
 <div align="left">
   <h4 >Would like to learn:</h4>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
