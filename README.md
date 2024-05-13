@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" height="40" alt="Css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="Css3 logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
    <img width="12" />
