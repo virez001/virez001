@@ -38,9 +38,11 @@
   <h4>Other Technologies:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgresSQL logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongoDB logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" height="40" alt="Css3 logo"  />
    <img width="12" />
@@ -51,9 +53,9 @@
 
 <div align="left">
   <h4 >Would like to learn:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typeScript logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angular logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/php/php-plain.svg" height="40" alt="php logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
