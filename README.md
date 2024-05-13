@@ -8,15 +8,15 @@
 
 <div align="left" >
   <h4>Languages and frameworks:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" "  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" "  />
 </div>
 
 ###
@@ -36,30 +36,30 @@
 
 <div align="left">
   <h4>Other Technologies:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongoDB logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="Css3 logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 ###
 
 <div align="left">
   <h4 >Would like to learn:</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/php/php-plain.svg" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
